@@ -15,4 +15,4 @@ Ordnade så att variablerna showInternalWebPage och showExternalWebPage kör fun
 ``` myWebView.loadUrl("file:///android_asset/img/about.html");```
 
 
-
+![](Android.png)
